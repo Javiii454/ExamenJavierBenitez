@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3D1_M06UF2_Examen.sln"
+    "dotnet.defaultSolution": "ExamenJavierBenitez.sln"
 }
